@@ -1,0 +1,7 @@
+print("Alvin Austin".lower())
+print("Alvin Austin".upper())
+print("Aku suka mie ayam bakso".split())
+print("Aku suka".startswith("Aku"))
+print("mie ayam bakso".endswith("bakso"))
+print(' - '.join(['Aku', 'suka', 'bakso']))
+print("Makan nasi goreng ditukang mie ayam".replace('mie ayam', 'nasi goreng'))

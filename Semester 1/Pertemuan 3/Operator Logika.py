@@ -1,0 +1,8 @@
+print(True and True)
+print(5 + 10 == 15 and True)
+print('-----------------------')
+print(False or 5 > 10)
+print(False or 3 > 2)
+print('-----------------------')
+print(not(2 > 10))
+print(not(2 < 10))
